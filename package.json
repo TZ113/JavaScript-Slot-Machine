@@ -1,12 +1,12 @@
 {
-  "name": "javascript-project",
+  "name": "javascript-slot-machine",
   "version": "1.0.0",
-  "description": "",
-  "main": "project.js",
+  "description": "slot machine using JavaScript",
+  "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "tz",
   "license": "ISC",
   "dependencies": {
     "prompt-sync": "^4.2.0"
